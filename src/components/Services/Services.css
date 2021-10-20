@@ -1,0 +1,10 @@
+.mdc {
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 10px;
+  height: 700px;
+  background-color: lightgray;
+}
+.btn-edit:hover {
+  background-color: rgb(143, 20, 71);
+}

@@ -1,0 +1,83 @@
+[
+   {
+      "id":"edr112",
+      "name":"Anesthesiology Specialist",
+      "doctor":"Dr. Md. Azharul Islam",
+      "honorary":"MBBS, FCPS ( Anaesthesia)",
+      "phone":"01729-276556",
+      "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718720.jpg",
+      "title":"Coordinator & Senior Consultant"
+   },
+   {
+      "id":"frd123",
+      "name":"Cardiologist",
+      "doctor":"Professor Dr. Momenuzzaman",
+      "honorary":"MBBS, D-Card, MD-Card",
+      "phone":"01819-251519",
+      "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718544.jpg",
+      "title":"Chief Consultant, Cardiology"
+   },
+   {
+      "id":"rty135",
+      "name":"Child Pediatric Specialist",
+      "doctor":"Prof. Dr. Golam Muktadir",
+      "honorary":"MBBS, DLO, MS (Otolaryngology)",
+      "phone":"01453-487657",
+      "img":"https://indiagetuprise.com/wp-content/uploads/2019/05/Dr-Ashish-Singhal-e1558939582454-300x300.jpg",
+      "title":"Professor of ENT"
+   },
+   {
+      "id":"lop157",
+      "name":"Dentist",
+      "doctor":"Prof. Dr. Nasir Uddin",
+      "honorary":"B.D.S. (Dhaka Dental College & Hospital) Bangladesh",
+      "phone":"01778-883265",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/K5POK83KDr.%20Ashok%20VermaKailash%20Hospital,%20Noida.jpg.jpg",
+      "title":"Periodontal Plastic & Maxillofacial Surgeon"
+   },
+   {
+      "id":"wed166",
+      "name":"Eye Specialist",
+      "doctor":"Dr.Tarzia Asma Zafrullah",
+      "honorary":"MBBS(Dhaka), DO(D.U.), FCPS(Eye), MCPS(Eye)",
+      "phone":"01636-444333",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/Dr.%20Mrinal%20BhargavaKailash%20Hospital,%20Noida.jpg",
+      "title":"Eye Specialist & Surgeon"
+   },
+   {
+      "id":"gsd169",
+      "name":"Dermatologist",
+      "doctor":"Dr.Samnun F. Taha",
+      "honorary":"MBBS (Dhaka), MRCP (UK)",
+      "phone":"01954 333888",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/OZI7854JDr.%20Ankur%20ChawlaKailash%20Hospital,%20Noida.jpg.jpg",
+      "title":"Anti aging & Regenerative Medicine Specialist"
+   },
+   {
+      "id":"fas124",
+      "name":"Medicine Specialist",
+      "doctor":"Dr. Md. Abdul Mabin",
+      "honorary":"MBBS, DMM (Malaysia), FCPS (Microbiology) Advanced Training in Immunology",
+      "phone":"01914-001234",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/4HE1ROY5Dr.%20Anup%20AgarwalKailash%20Hospital,%20Noida.jpg.jpg",
+      "title":"Lab Medicine Specialist"
+   },
+   {
+      "id":"fes141",
+      "name":"Surgery Specialist",
+      "doctor":"Prof.Dr. Sheikh M. Abu Zafor",
+      "honorary":"MBBS, FRCSI (IRELAND)",
+      "phone":"01841-276556",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/2TV3L98IDr.%20Rana%20KumarKailash%20Hospital,%20Noida.jpg.jpg",
+      "title":"General and Laparoscopic Surgery Specialist"
+   },
+   {
+      "id":"fea179",
+      "name":"Urology Specialist",
+      "doctor":"Professor Dr. Md. Kamrul Islam",
+      "honorary":"FRCS (UK), FCPS (Surg), MS (Urology)",
+      "phone":"01777-685821",
+      "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/WWCB38OJDr.%20Kuldip%20KhannaKailash%20Hospital,%20Noida.jpg.jpg",
+      "title":"Professor (Urology)"
+   }
+]

@@ -1,0 +1,148 @@
+{
+   "employee":[
+      {
+         "title":"Coordinator & Senior Consultant",
+         "doctor":"Dr. Md. Azharul Islam",
+         "location":{
+            "street":"11/1, purana paltan, 1000",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"azharul355@gmail.com",
+            "id":"edr112"
+         },
+         "phone":"01729-276556",
+         "picture":{
+            "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718720.jpg"
+         }
+      },
+      {
+         "title":"Chief Consultant, Cardiology",
+         "doctor":"Professor Dr. Momenuzzaman",
+         "location":{
+            "street":"61, west nakhal para, tejgaon i/a, 1215",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"momen126@gmail.com",
+            "id":"frd123"
+         },
+         "phone":"01819-251519",
+         "picture":{
+            "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718544.jpg"
+         }
+      },
+      {
+         "title":"Child Pediatric Specialist",
+         "doctor":"Prof. Dr. Golam Muktadir",
+         "location":{
+            "street":"block-c, section #6, mirpur, 1216",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"muktadirgolam99@gmail.com",
+            "id":"rty135"
+         },
+         "phone":"01453-487657",
+         "picture":{
+            "img":"https://indiagetuprise.com/wp-content/uploads/2019/05/Dr-Ashish-Singhal-e1558939582454-300x300.jpg"
+         }
+      },
+      {
+         "title":"Dentist",
+         "doctor":"Prof. Dr. Nasir Uddin",
+         "location":{
+            "street":"b.s.m.m.u., shahbagh, 1000",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"nasir302@gmail.com",
+            "id":"lop157"
+         },
+         "phone":"01778-883265",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/K5POK83KDr.%20Ashok%20VermaKailash%20Hospital,%20Noida.jpg.jpg"
+         }
+      },
+      {
+         "title":"Eye Specialist",
+         "doctor":"Dr.Tarzia Asma Zafrullah",
+         "location":{
+            "street":"47, sat masjid road, dhanmondi, 1209",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"tarzia990@gmail.com",
+            "id":"wed166"
+         },
+         "phone":"01636-444333",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/Dr.%20Mrinal%20BhargavaKailash%20Hospital,%20Noida.jpg"
+         }
+      },
+      {
+         "title":"Dermatologist",
+         "doctor":"Dr.Samnun F. Taha",
+         "location":{
+            "street":"25/1, sher-e-bangla road, zigatola, 1209",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"taha8989@gmail.com",
+            "id":"gsd169"
+         },
+         "phone":"01954 333888",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/OZI7854JDr.%20Ankur%20ChawlaKailash%20Hospital,%20Noida.jpg.jpg"
+         }
+      },
+      {
+         "title":"Medicine Specialist",
+         "doctor":"Dr. Md. Abdul Mabin",
+         "location":{
+            "street":"640, maddha badda, 1212",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"abdulmabin3@gmail.com",
+            "id":"fas124"
+         },
+         "phone":"01914-001234",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/4HE1ROY5Dr.%20Anup%20AgarwalKailash%20Hospital,%20Noida.jpg.jpg"
+         }
+      },
+      {
+         "title":"Surgery Specialist",
+         "doctor":"Prof.Dr. Sheikh M. Abu Zafor",
+         "location":{
+            "street":"road # 16, sector - 11, uttara model town, 1229",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"zafor675@gmail.com",
+            "id":"fes141"
+         },
+         "phone":"01841-276556",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/2TV3L98IDr.%20Rana%20KumarKailash%20Hospital,%20Noida.jpg.jpg"
+         }
+      },
+      {
+         "title":"Urology Specialist",
+         "doctor":"Professor Dr. Md. Kamrul Islam",
+         "location":{
+            "street":"24/1, ring road (4th floor), shyamoli, 1207",
+            "city":"Dhaka"
+         },
+         "intro":{
+            "email":"kamrul98@gmail.com",
+            "id":"fea179"
+         },
+         "phone":"01777-685821",
+         "picture":{
+            "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/WWCB38OJDr.%20Kuldip%20KhannaKailash%20Hospital,%20Noida.jpg.jpg"
+         }
+      }
+   ]
+}

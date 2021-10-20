@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "name":"Anesthesiology Specialist",
+       "doctor":"Dr. Md. Azharul Islam",
+       "honorary":"MBBS, FCPS ( Anaesthesia)",
+       "phone":"01729-276556",
+       "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718720.jpg",
+       "title":"Coordinator & Senior Consultant"
+    },
+    {
+       "id":2,
+       "name":"Cardiologist",
+       "doctor":"Professor Dr. Momenuzzaman",
+       "honorary":"MBBS, D-Card, MD-Card",
+       "phone":"01819-251519",
+       "img":"https://www.bdspecializedhospital.com/storage/app/public/media/1557718544.jpg",
+       "title":"Chief Consultant, Cardiology"
+    },
+    {
+       "id":3,
+       "name":"Child Pediatric Specialist",
+       "doctor":"Prof. Dr. Golam Muktadir",
+       "honorary":"MBBS, DLO, MS (Otolaryngology)",
+       "phone":"01453-487657",
+       "img":"https://indiagetuprise.com/wp-content/uploads/2019/05/Dr-Ashish-Singhal-e1558939582454-300x300.jpg",
+       "title":"Professor of ENT"
+    },
+    {
+       "id":4,
+       "name":"Dentist",
+       "doctor":"Prof. Dr. Nasir Uddin",
+       "honorary":"B.D.S. (Dhaka Dental College & Hospital) Bangladesh",
+       "phone":"01778-883265",
+       "img":"https://www.kailashhealthcare.com/UserFiles/Doctor/K5POK83KDr.%20Ashok%20VermaKailash%20Hospital,%20Noida.jpg.jpg",
+       "title":"Periodontal Plastic & Maxillofacial Surgeon"
+    }
+ ]

@@ -1,0 +1,9 @@
+.container {
+  padding: 30px;
+}
+.info-box {
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 10px;
+  height: 600px;
+}
