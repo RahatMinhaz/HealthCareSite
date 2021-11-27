@@ -14,12 +14,12 @@ const Home = () => {
     },[])
     return (
         <div>
-            <h2>{user.displayName}</h2>
-            <h1 className = "pb-5">Welcome to <span className = "text-primary">Amity</span> Hospital!</h1>
+            <h2 className="mt-3">{user.displayName}</h2>
+            <h1 className = "pt-3 pb-5">Welcome to <span className = "text-primary">Amity</span> Hospital!</h1>
             <Banner></Banner>
         <div className = "container">
             
-            <h1>Here's Few of our Experts</h1>
+            <h1 className="mb-4">Here's Few of our Experts</h1>
             <div className="services">
                 
                 <div className="row">
